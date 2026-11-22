@@ -17,6 +17,7 @@ I have 7 years' experience in software testing and test and release management, 
 - **Next:** TypeScript, Git workflows and CI/CD with GitHub Actions
 
 ### 📂 Repositories
+- [playwright-saucedemo-e2e](https://github.com/GTWB/playwright-saucedemo-e2e): SauceDemo E2E project
 - [playwright-automation-learning](https://github.com/GTWB/playwright-automation-learning): my Playwright learning repo (UI, API and network interception tests)
 - [dolt-to-do-app](https://github.com/GTWB/dolt-to-do-app): vanilla JavaScript to-do app with filters, search and localStorage
 - [contact-form-component](https://github.com/GTWB/contact-form-component): React form with client-side validation
