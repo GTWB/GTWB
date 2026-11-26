@@ -1,6 +1,6 @@
 ## Hi, I'm Giuseppe 👋
 
-**QA Engineer based in London** | API & manual testing | ISTQB Advanced Level Test Manager | Learning Playwright & JavaScript
+**QA Engineer based in London** | API & manual testing | ISTQB Advanced Level Test Manager | Learning Playwright 
 
 I have 7 years' experience in software testing and test and release management, mostly on banking and public-sector systems in Italy (Capgemini, Intesa Sanpaolo). I'm now moving into test automation, with the long-term goal of becoming a software engineer.
 
@@ -13,7 +13,6 @@ I have 7 years' experience in software testing and test and release management, 
 
 ### 🌱 What I'm learning now
 - **Playwright (JavaScript):** UI end-to-end tests, API tests with token-based login, session reuse and network mocking
-- **JavaScript:** vanilla JS apps and some React
 - **Next:** TypeScript, Git workflows and CI/CD with GitHub Actions
 
 ### 📂 Repositories
